@@ -117,9 +117,9 @@ h2#contact:before {background-position: right bottom;}
 #bio p a {
 	text-decoration: none;
 	border: none;
-	background: #444;
-	color: #fff;
-	padding: 3px 5px;
+	/*background: #444;*/
+	/*color: #fff;*/
+	/*padding: 3px 5px;*/
 	margin: -3px 0 0 0;
 }
 #bio p a:hover {text-decoration:none; color: #fff; background: #222;}
