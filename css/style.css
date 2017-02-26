@@ -85,7 +85,12 @@ h2#tools:before {background-position: left top;}
 h2#learn:before {background-position: right top;}
 h2#eye:before {background-position: -90px top;}
 h2#clock:before {background-position: -45px top;}
-h2#chat:before {background-position: -45px bottom;}
+h2#publications:before {
+	background-image: url("../images/publications.png");
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
 h2#titleName:before {background-position: -90px bottom;}
 h2#contact:before {background-position: right bottom;}
 
@@ -143,6 +148,21 @@ h2#contact:before {background-position: right bottom;}
 #flickrIcon {background-position: -240px 0;}
 #favIcon {background-position: -270px 0;}
 #linkedinIcon {background-position: -300px 0;}
+
+#githubIcon {
+	background-image: url(../images/github.png);
+	background-size: 30px 30px;
+}
+
+#stackoverflowIcon {
+	background-image: url(../images/stackoverflow.png);
+	background-size: 30px 30px;
+}
+
+#emailIcon {
+	background-image: url(../images/email.png);
+	background-size: 30px 30px;
+}
 
 #rssIcon:hover {background-position: 0 -30px;}
 #youTubeIcon:hover {background-position: -30px -30px;}
