@@ -43,6 +43,10 @@ a:hover {text-decoration:underline;}
 
 }
 
+#moreBio {
+	display: none;
+}
+
 #sticker {position: fixed; top: -60px; left: 0; right: 0; background: #fff; background: rgba(255,255,255,.98); height: 55px; box-shadow: 0 0 3px rgba(0,0,0,.3); z-index: 1000;}
 #sticker h2.sectionHead {border: none; margin: 0 0 0 50px; line-height: 55px; padding: 0 0 0 8px;}
 #sticker h2.sectionHead:before {left: -40px; top:5px;}
@@ -63,9 +67,10 @@ h2.sectionHead {
 	margin: 60px -60px;
 	border-left: 52px solid #444;
 	color: #444;
+	/*color: #527bbd;*/
 	padding:1px 0 0 8px;
 	letter-spacing: -2px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	position: relative;
 }
 h2.sectionHead:before {
@@ -91,7 +96,12 @@ h2#publications:before {
 	background-repeat: no-repeat;
 	background-position: center;
 }
-h2#titleName:before {background-position: -90px bottom;}
+h2#titleName:before {
+	background-image: url("../images/bio.png");
+	background-size: 75%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
 h2#contact:before {background-position: right bottom;}
 
 /* ------------------------*/

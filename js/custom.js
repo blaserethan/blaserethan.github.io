@@ -7,6 +7,10 @@ $(document).ready(function(){
 		html = $('html'),
 		body = $('body');
 
+	$('#showMoreBio').on('click', function() {
+		$('#moreBio').css('display', 'block')
+	})
+
 	////////////////
 	//SKILLS ANIMATION
 	////////////////
