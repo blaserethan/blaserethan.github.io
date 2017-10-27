@@ -28,7 +28,8 @@ __Fudan University__
 - GPA 3.56/4.0 Rank 9/84
 
 ## Publications
-`2017`
+
+<!-- `2017`
 [Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control]() []
 - __S Zhang__, OR Zaiane
 
@@ -38,7 +39,7 @@ __Fudan University__
 
 `2017`
 [A Deeper Look at Experience Replay]() []
-- __S Zhang__, RS Sutton
+- __S Zhang__, RS Sutton -->
 
 `2017`
 [Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks](http://arxiv.org/abs/1612.02879) [[ECML](ecmlpkdd2017.ijs.si)]
