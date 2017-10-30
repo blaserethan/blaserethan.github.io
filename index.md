@@ -25,7 +25,7 @@ __National Chiao Tung University__
 `Sept. 2012 - Jul. 2016`
 __Fudan University__
 - Bachelor of Science, Computer Science
-- GPA 3.56/4.0 Rank 9/84
+- GPA 3.57/4.0 Rank 9/84
 
 ## Publications
 
@@ -47,7 +47,7 @@ __Fudan University__
 
 `2015`
 [A Deep Neural Network for Modeling Music](https://www.researchgate.net/publication/275347034_A_Deep_Neural_Network_for_Modeling_Music) [[ICMR](http://www.icmr2015.org/)]
-- Zhang P, Zheng X, Zhang W, Li S, Qian S, He W, __Zhang S__, Wang Z. A
+- P Zhang, X Zheng, W Zhang, S Li, S Qian, W He, __S Zhang__, Z Wang
 
 ` ` 
 <sup>*</sup> above denotes equal contribution
