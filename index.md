@@ -42,7 +42,7 @@ __Fudan University__
 - __S Zhang__, RS Sutton -->
 
 `2017`
-[Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks](http://arxiv.org/abs/1612.02879) [[ECML](ecmlpkdd2017.ijs.si)]
+[Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks](http://arxiv.org/abs/1612.02879) [[ECML](http://ecmlpkdd2017.ijs.si/)]
 - V Veeriah<sup>*</sup>, __S Zhang__<sup>*</sup>, RS Sutton
 
 `2015`
