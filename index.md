@@ -34,12 +34,12 @@ __Fudan University__
 - __S Zhang__, OR Zaiane
 
 `2017`
-[The Polling Control Architecture]() []
-- __S Zhang__, RS Sutton
-
-`2017`
 [A Deeper Look at Experience Replay]() []
 - __S Zhang__, RS Sutton -->
+
+`2017`
+[A Polling Control Architecture with Off-Policy Learning and Flexible Behavior Policy]() [[NIPS Hierarchical RL Workshop](https://sites.google.com/view/hrlnips2017/call-for-papers?authuser=0)]
+- __S Zhang__, RS Sutton
 
 `2017`
 [Crossprop: Learning Representations by Stochastic Meta-Gradient Descent in Neural Networks](http://arxiv.org/abs/1612.02879) [[ECML](http://ecmlpkdd2017.ijs.si/)]
@@ -66,7 +66,7 @@ __Learning Representations by Crossprop__
 
 `May 2017 - Now`
 __[PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL)__
-- A zoo of popular deep RL algorithms with PyTorch, which earned more than 140 stars.
+- A zoo of popular deep RL algorithms with PyTorch, which earned more than 170 stars.
 
 `May 2017 - Sept. 2017` 
 __[Google Summer of Code (GSoC) 2017](https://summerofcode.withgoogle.com/archive/2017/projects/4800276775043072/)__
@@ -74,7 +74,7 @@ __[Google Summer of Code (GSoC) 2017](https://summerofcode.withgoogle.com/archiv
 
 `Sept. 2016 - Dec. 2016`
 __[Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)__
-- Python implementation of the book, which earned more than 1,700 stars and 700 forks.
+- Python implementation of the book, which earned more than 2,100 stars and 800 forks.
 
 `Jun. 2016`
 __[Stack Overflow](https://stackoverflow.com/users/3650053/t-ng)__
