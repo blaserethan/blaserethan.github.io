@@ -38,7 +38,7 @@ __Fudan University__
 - __S Zhang__, RS Sutton -->
 
 `2017`
-[A Polling Control Architecture with Off-Policy Learning and Flexible Behavior Policy]() [[NIPS Hierarchical RL Workshop](https://sites.google.com/view/hrlnips2017/call-for-papers?authuser=0)]
+[A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy]() [[NIPS Hierarchical RL Workshop](https://sites.google.com/view/hrlnips2017/home?authuser=0)]
 - __S Zhang__, RS Sutton
 
 `2017`
