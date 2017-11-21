@@ -29,16 +29,16 @@ __Fudan University__
 
 ## Publications
 
-<!-- `2017`
-[Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control]() []
+`2017`
+[Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control](https://www.dropbox.com/s/t1fc28a9nbekn8v/nips_2017.pdf?dl=0) [[NIPS Deep RL Symposium](https://sites.google.com/view/deeprl-symposium-nips2017)]
 - __S Zhang__, OR Zaiane
 
 `2017`
-[A Deeper Look at Experience Replay]() []
-- __S Zhang__, RS Sutton -->
+[A Deeper Look at Experience Replay](https://www.dropbox.com/s/ma320zp2v4fw17w/nips_2017.pdf?dl=0) [[NIPS Deep RL Symposium](https://sites.google.com/view/deeprl-symposium-nips2017)]
+- __S Zhang__, RS Sutton
 
 `2017`
-[A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy]() [[NIPS Hierarchical RL Workshop](https://sites.google.com/view/hrlnips2017/home?authuser=0)]
+[A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://www.dropbox.com/s/a0ksjkhqaxbxlvr/nips_2017.pdf?dl=0) [[NIPS Hierarchical RL Workshop](https://sites.google.com/view/hrlnips2017/home?authuser=0)]
 - __S Zhang__, RS Sutton
 
 `2017`
@@ -66,7 +66,7 @@ __Learning Representations by Crossprop__
 
 `May 2017 - Now`
 __[PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL)__
-- A zoo of popular deep RL algorithms with PyTorch, which earned more than 170 stars.
+- A zoo of popular deep RL algorithms with PyTorch, which earned more than 180 stars.
 
 `May 2017 - Sept. 2017` 
 __[Google Summer of Code (GSoC) 2017](https://summerofcode.withgoogle.com/archive/2017/projects/4800276775043072/)__
@@ -102,3 +102,17 @@ __Teaching Assistant__
 `Jul. 2015 - May 2016`
 __Software Developer Engineer Intern__
 - SAP, Shanghai
+
+## Misc
+
+`Nov. 2017`
+__[Science Victory within 200T](https://tieba.baidu.com/p/5440852743?pid=115414082603&cid=0&red_tag=1704425195#115414082603) in [CIV5](http://www.civilization5.com/)__
+- Standard setting of deity difficulty level except for random seed and manually specified leaders
+
+`Aug. 2017` 
+__[Edmonton Half Marathon](http://www.edmontonmarathon.ca/)__
+- Complete in 2 hrs 17 mins
+
+`Dec. 2015`
+__[Taihu Lake Half Marathon](http://www.runsuzhou.com/)__
+- Complete in 2 hrs 34 mins
