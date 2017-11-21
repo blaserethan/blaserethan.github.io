@@ -77,6 +77,10 @@ code {
 	color: #aaa;
 }
 
+code:nth-child(2) {
+	top: 1em;
+}
+
 p code {
 	position: absolute;
 	left: -14%;

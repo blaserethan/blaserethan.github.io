@@ -12,17 +12,20 @@ title: Shangtong
 
 ## Education
 
-`Sept. 2016 - Now`
+`Sept. 2016 -`
+`Now`
 __University of Alberta__
 - Master of Science, Computing Science, specialized in Statistical Machine Learning
 - GPA 4.0/4.0, advised by [Dr. Richard S. Sutton](http://incompleteideas.net/sutton/)
 - Reinforcement Learning and Artificial Intelligence Laboratory
 
-`Feb. 2015 - May 2015`
+`Feb. 2015 - `
+`May 2015`
 __National Chiao Tung University__
 - Exchange Student
 
-`Sept. 2012 - Jul. 2016`
+`Sept. 2012 - `
+`Jul. 2016`
 __Fudan University__
 - Bachelor of Science, Computer Science
 - GPA 3.57/4.0 Rank 9/84, advised by [Dr. Wenqiang Zhang](http://www.cs.fudan.edu.cn/?page_id=2022) and [Dr. Xiaoqing Zheng](http://homepage.fudan.edu.cn/zhengxq/)
@@ -64,15 +67,18 @@ __Learning Representations by Crossprop__
 
 ## Highlights 
 
-`May 2017 - Now`
+`May 2017 - `
+`Now`
 __[PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL)__
 - A zoo of popular deep RL algorithms with PyTorch, which earned more than 180 stars.
 
-`May 2017 - Sept. 2017` 
+`May 2017 - `
+`Sept. 2017` 
 __[Google Summer of Code (GSoC) 2017](https://summerofcode.withgoogle.com/archive/2017/projects/4800276775043072/)__
 - Contributed to [MLPack](http://mlpack.org/) by implementing various deep RL methods. Now I am in the contributor team of MLPack.
 
-`Sept. 2016 - Dec. 2016`
+`Sept. 2016 - `
+`Dec. 2016`
 __[Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)__
 - Python implementation of the book, which earned more than 2,100 stars and 800 forks.
 
@@ -85,21 +91,25 @@ __[SlardarOS](https://github.com/ShangtongZhang/SlardarOS)__
 - My own OS from scratch with advanced techniques in C++ 11.
 
 
-`May 2014 - Sept. 2014`
+`May 2014 - `
+`Sept. 2014`
 __[Google Summer of Code (GSoC) 2014](https://www.google-melange.com/archive/gsoc/2014/orgs/xapian/projects/shangtongzhang.html)__
 - Contributed to [Xapian](https://xapian.org/) by optimizing the post list and the position list via the vector of splits encoding and skip list.
 
 ## Employments
 
-`Jan. 2017 - Now`
+`Jan. 2017 - `
+`Now`
 __Research Assistant__
 - RLAI Lab, University of Alberta
 
-`Sept.2016 - Dec.2016`
+`Sept.2016 - `
+`Dec.2016`
 __Teaching Assistant__
 - CMPUT 229 Computer Organization and Architecture, University of Alberta
 
-`Jul. 2015 - May 2016`
+`Jul. 2015 - `
+`May 2016`
 __Software Developer Engineer Intern__
 - SAP, Shanghai
 
