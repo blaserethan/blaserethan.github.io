@@ -15,7 +15,7 @@ title: Shangtong
 `Sept. 2016 - Now`
 __University of Alberta__
 - Master of Science, Computing Science, specialized in Statistical Machine Learning
-- GPA 4.0/4.0, Advised by [Dr. Richard S. Sutton](http://incompleteideas.net/sutton/)
+- GPA 4.0/4.0, advised by [Dr. Richard S. Sutton](http://incompleteideas.net/sutton/)
 - Reinforcement Learning and Artificial Intelligence Laboratory
 
 `Feb. 2015 - May 2015`
@@ -25,7 +25,7 @@ __National Chiao Tung University__
 `Sept. 2012 - Jul. 2016`
 __Fudan University__
 - Bachelor of Science, Computer Science
-- GPA 3.57/4.0 Rank 9/84
+- GPA 3.57/4.0 Rank 9/84, advised by [Dr. Wenqiang Zhang](http://www.cs.fudan.edu.cn/?page_id=2022) and [Dr. Xiaoqing Zheng](http://homepage.fudan.edu.cn/zhengxq/)
 
 ## Publications
 
