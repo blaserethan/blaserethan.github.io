@@ -63,7 +63,7 @@ __Coding Deep Reinforcement Learning Papers__
 
 `Sept. 2017` 
 __Learning Representations by Crossprop__
-- Presentation at [ECML](http://ecmlpkdd2017.ijs.si/), Macedonia, Skopje
+- Presentation at [ECML](http://ecmlpkdd2017.ijs.si/), Skopje, Macedonia
 
 ## Highlights 
 
@@ -103,8 +103,8 @@ __[Google Summer of Code (GSoC) 2014](https://www.google-melange.com/archive/gso
 __Research Assistant__
 - RLAI Lab, University of Alberta
 
-`Sept.2016 - `
-`Dec.2016`
+`Sept. 2016 - `
+`Dec. 2016`
 __Teaching Assistant__
 - CMPUT 229 Computer Organization and Architecture, University of Alberta
 
