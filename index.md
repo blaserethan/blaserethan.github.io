@@ -66,7 +66,7 @@ __Learning Representations by Crossprop__
 
 `2017.05 - Now`
 __[PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL)__
-- A zoo of popular deep RL algorithms with PyTorch, which earned more than 180 stars.
+- A zoo of popular deep RL algorithms with PyTorch, which earned more than 210 stars.
 
 `2017.05 - 2017.09` 
 __[Google Summer of Code (GSoC) 2017](https://summerofcode.withgoogle.com/archive/2017/projects/4800276775043072/)__
@@ -74,7 +74,7 @@ __[Google Summer of Code (GSoC) 2017](https://summerofcode.withgoogle.com/archiv
 
 `2016.09 - 2016.12`
 __[Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)__
-- Python implementation of the book, which earned more than 2,100 stars and 800 forks.
+- Python implementation of the book, which earned more than 2,300 stars and 800 forks.
 
 `2016.06`
 __[Stack Overflow](https://stackoverflow.com/users/3650053/t-ng)__
