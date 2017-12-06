@@ -30,15 +30,15 @@ __Fudan University__
 ## Publications
 
 `2017`
-[Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control](https://www.dropbox.com/s/t1fc28a9nbekn8v/nips_2017.pdf?dl=0) [[NIPS Deep RL Symposium](https://sites.google.com/view/deeprl-symposium-nips2017)]
+[Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control](https://www.dropbox.com/s/t1fc28a9nbekn8v/nips_2017.pdf?dl=0) [[NIPS Deep RL Symposium](https://arxiv.org/abs/1712.00006)]
 - __S Zhang__, OR Zaiane
 
 `2017`
-[A Deeper Look at Experience Replay](https://www.dropbox.com/s/ma320zp2v4fw17w/nips_2017.pdf?dl=0) [[NIPS Deep RL Symposium](https://sites.google.com/view/deeprl-symposium-nips2017)]
+[A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275) [[NIPS Deep RL Symposium](https://sites.google.com/view/deeprl-symposium-nips2017)]
 - __S Zhang__, RS Sutton
 
 `2017`
-[A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://www.dropbox.com/s/a0ksjkhqaxbxlvr/nips_2017.pdf?dl=0) [[NIPS Hierarchical RL Workshop](https://sites.google.com/view/hrlnips2017/home?authuser=0)]
+[A Demon Control Architecture with Off-Policy Learning and Flexible Behavior Policy](https://drive.google.com/file/d/1tV1Lw1fIsQTihSzSvBT206XX2_6UjiRB/view) [[NIPS Hierarchical RL Workshop](https://sites.google.com/view/hrlnips2017/home?authuser=0)]
 - __S Zhang__, RS Sutton
 
 `2017`
@@ -55,7 +55,7 @@ __Fudan University__
 ## Talks 
 
 `2017.12` 
-__Coding Deep Reinforcement Learning Papers__
+__[Coding Deep Reinforcement Learning Papers](https://www.dropbox.com/s/f05dz1k1ksa2bb6/mltrain-public.pdf?dl=0)__
 - Invited talk at [NIPS MLTrain workshop](https://mltrain.cc/events/nips-highlights-learn-how-to-code-a-paper-with-state-of-the-art-frameworks/), Long Beach, U.S.
 
 `2017.09` 
