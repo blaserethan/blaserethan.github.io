@@ -30,7 +30,7 @@ __Fudan University__
 ## Publications
 
 `2017`
-[Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control](https://www.dropbox.com/s/t1fc28a9nbekn8v/nips_2017.pdf?dl=0) [[NIPS Deep RL Symposium](https://arxiv.org/abs/1712.00006)]
+[Comparing Deep Reinforcement Learning and Evolutionary Methods in Continuous Control](https://arxiv.org/abs/1712.00006) [[NIPS Deep RL Symposium](https://sites.google.com/view/deeprl-symposium-nips2017)]
 - __S Zhang__, OR Zaiane
 
 `2017`
