@@ -55,7 +55,7 @@ __Fudan University__
 ## Talks 
 
 `2017.12` 
-__[Coding Deep Reinforcement Learning Papers](https://www.dropbox.com/s/f05dz1k1ksa2bb6/mltrain-public.pdf?dl=0)__
+__[Coding Deep Reinforcement Learning Papers](https://www.dropbox.com/s/mbzrcli8nvv0oef/mltrain-public.pdf?dl=0)__
 - Invited talk at [NIPS MLTrain workshop](https://mltrain.cc/events/nips-highlights-learn-how-to-code-a-paper-with-state-of-the-art-frameworks/), Long Beach, U.S.
 
 `2017.09` 
