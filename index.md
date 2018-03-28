@@ -22,7 +22,7 @@ __University of Alberta__
 __National Chiao Tung University__
 - Exchange Student
 
-`2012.12 - 2016.07`
+`2012.09 - 2016.07`
 __Fudan University__
 - Bachelor of Science, Computer Science
 - GPA 3.57/4.0 Rank 9/84, advised by [Dr. Wenqiang Zhang](http://www.cs.fudan.edu.cn/?page_id=2022) and [Dr. Xiaoqing Zheng](http://homepage.fudan.edu.cn/zhengxq/)
@@ -66,7 +66,7 @@ __Learning Representations by Crossprop__
 
 `2017.05 - Now`
 __[PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL)__
-- A zoo of popular deep RL algorithms with PyTorch, which earned more than 210 stars.
+- A zoo of popular deep RL algorithms with PyTorch, which earned more than 400 stars.
 
 `2017.05 - 2017.09` 
 __[Google Summer of Code (GSoC) 2017](https://summerofcode.withgoogle.com/archive/2017/projects/4800276775043072/)__
@@ -74,7 +74,7 @@ __[Google Summer of Code (GSoC) 2017](https://summerofcode.withgoogle.com/archiv
 
 `2016.09 - 2016.12`
 __[Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)__
-- Python implementation of the book, which earned more than 2,300 stars and 800 forks.
+- Python implementation of the book, which earned more than 3,100 stars and 1,200 forks.
 
 `2016.06`
 __[Stack Overflow](https://stackoverflow.com/users/3650053/t-ng)__
@@ -105,9 +105,9 @@ __Software Developer Engineer Intern__
 
 ## Misc
 
-`2017.11`
-__[Science Victory within 200T](https://tieba.baidu.com/p/5440852743?pid=115414082603&cid=0&red_tag=1704425195#115414082603) in [CIV5](http://www.civilization5.com/)__
-- Standard setting of deity difficulty level except for random seed and manually specified leaders
+<!-- `2017.11` -->
+<!-- __[Science Victory within 200T](https://tieba.baidu.com/p/5440852743?pid=115414082603&cid=0&red_tag=1704425195#115414082603) in [CIV5](http://www.civilization5.com/)__ -->
+<!-- - Standard setting of deity difficulty level except for random seed and manually specified leaders -->
 
 `2017.08` 
 __[Edmonton Half Marathon](http://www.edmontonmarathon.ca/)__
