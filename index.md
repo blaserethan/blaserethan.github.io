@@ -16,21 +16,20 @@ layout: home
         </td>
         <td>
             <p>
-                Assistant Professor<br>
+                PhD Candidate<br>
                 <a href="https://engineering.virginia.edu/departments/computer-science">Department of Computer Science </a> <br>
                 <a href="https://www.virginia.edu/">University of Virginia </a> <br>
                 <br>
-                <b>Office</b>: 422 Rice Hall <br>
+                <b>Office</b>: Rice Hall 224<br>
                 <b>Mail</b>: 85 Engineer's Way, Charlottesville, VA, 22903<br>
-                <b>Email</b>: <a href="mailto:shangtong@virginia.edu">shangtong@virginia.edu </a> <br>
+                <b>Email</b>: <a href="mailto:ehb2bf@virginia.edu">ehb2bf@virginia.edu </a> <br>
             </p>
         </td>
         </tr>
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.co.uk/citations?user=Pn7fj4IAAAAJ&hl=en) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/ShangtongZhang) [[SDM Lab]](https://github.com/SDM-LAB) [[PhD Thesis]](https://ora.ox.ac.uk/objects/uuid:2c410803-2141-41ed-b362-7f14723b2f17) [[Calendar]](https://outlook.office365.com/owa/calendar/28109e83b17a40a68df4687e82614ae6@virginia.edu/1cc980bd40644e17b99c52396532934416235907553762187423/calendar.html) [[Zoom]](https://virginia.zoom.us/my/shangtong) [[Prospective Students]](/recruiting)    
-<!-- <span style="color:red"> <a href="/people" style="color:red"> <u> I am looking for self-motivated students interested in RL at different levels! </u> </a> </span> -->
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fF7Ok0AAAAAJ&scilu=&scisig=AMD79ooAAAAAY02cyWFwrpqYZuSgdj0HEOBqcDgccsbW&gmla=AJsN-F5HWQ2ZZdugle0DKHtMEI2hXjtrjnQZ3dUqzdlhKnW_oqISO6nG1OixVJx7XpqPm7MRsTgamA8_KsvH-Or-t06epe_81XjPdEQAbMglLRYjndcaWTU&sciund=12663298381193620857) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/blaserethan) [[SDM Lab]](https://github.com/SDM-LAB) 
 ## Biography
 
 Shangtong Zhang is an Assistant Professor in the Department of Computer Science at the University of Virginia.
