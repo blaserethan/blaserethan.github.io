@@ -32,27 +32,10 @@ layout: home
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fF7Ok0AAAAAJ&scilu=&scisig=AMD79ooAAAAAY02cyWFwrpqYZuSgdj0HEOBqcDgccsbW&gmla=AJsN-F5HWQ2ZZdugle0DKHtMEI2hXjtrjnQZ3dUqzdlhKnW_oqISO6nG1OixVJx7XpqPm7MRsTgamA8_KsvH-Or-t06epe_81XjPdEQAbMglLRYjndcaWTU&sciund=12663298381193620857) [[Twitter]](https://twitter.com/ShangtongZhang) [[Curriculum Vitae]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/blaserethan) [[SDM Lab]](https://github.com/SDM-LAB) 
 ## Biography
 
-Shangtong Zhang is an Assistant Professor in the Department of Computer Science at the University of Virginia.
-His research focuses on both theoretical and empirical aspects of reinforcement learning,
-which has resulted in multiple scholarly articles in major AI venues, e.g., JMLR, ICML, NeurIPS,
-including one that won the best paper award at AAMAS.
-He also regularly serves as Area Chair in major AI venues, e.g., ICLR, AISTATS, and panelists for major federal funding agencies, e.g., NSF.
-His research was recognized by the AAAI New Faculty Highlights program
-and he was selected as a Rising Star in AI by KAUST AI Initiative.
-He obtained his DPhil at the University of Oxford,
-during which time he spent some time with the DeepMind AlphaStar group.
-His DPhil thesis was recognized as the runner-up for the IFAAMAS Victor Lesser Dissertation Award.
-Prior to that,
-he received his MSc degree at the University of Alberta
-and BSc degree at Fudan University.
-
-<!-- Shangtong Zhang is an Assistant Professor in the Department of Computer Science at the University of Virginia.
-Prior to joining UVA, he received his DPhil degree at the University of Oxford, MSc degree at the University of Alberta,
-and BSc degree at Fudan University.
-The goal of his research is to solve sequential decision making problems in a scalable and reliable way. 
-Currently, he focuses on reinforcement learning as a solution method.
-His work won the best paper award at AAMAS and his thesis is the runner-up for the IFAAMAS Victor Lesser Dissertation Award.
-He spent some time at Microsoft Research and DeepMind during his DPhil. -->
+I am a 3rd year PhD Candidate in the Department of Computer Science at the University of Virginia, and an NSF Graduate Research Fellow.
+My research focuses on the mathematical and statistical foundations of sequential decision making systems. I'm fortunate to be advised by Professor
+Shangtong Zhang.
+Prior to that, I received my Masters in CS at UVA and a BA in Physics and CS with Highest Distinction also from UVA.
 
 ## News
 - 2024/05: One paper is accepted at ICML 2024.  
