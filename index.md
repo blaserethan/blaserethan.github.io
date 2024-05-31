@@ -29,7 +29,7 @@ layout: home
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fF7Ok0AAAAAJ&scilu=&scisig=AMD79ooAAAAAY02cyWFwrpqYZuSgdj0HEOBqcDgccsbW&gmla=AJsN-F5HWQ2ZZdugle0DKHtMEI2hXjtrjnQZ3dUqzdlhKnW_oqISO6nG1OixVJx7XpqPm7MRsTgamA8_KsvH-Or-t06epe_81XjPdEQAbMglLRYjndcaWTU&sciund=12663298381193620857) [Twitter / ](https://twitter.com/EthanBlaser) [CV / ](/assets/pdf/resume/resume.pdf) [Github / ](https://github.com/blaserethan) [[SDM Lab]](https://github.com/SDM-LAB) 
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fF7Ok0AAAAAJ&scilu=&scisig=AMD79ooAAAAAY02cyWFwrpqYZuSgdj0HEOBqcDgccsbW&gmla=AJsN-F5HWQ2ZZdugle0DKHtMEI2hXjtrjnQZ3dUqzdlhKnW_oqISO6nG1OixVJx7XpqPm7MRsTgamA8_KsvH-Or-t06epe_81XjPdEQAbMglLRYjndcaWTU&sciund=12663298381193620857) [[Twitter]](https://twitter.com/EthanBlaser) [[CV]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/blaserethan) [[SDM Lab]](https://github.com/SDM-LAB) 
 ## Biography
 
 I am a 3rd year PhD Candidate in the Department of Computer Science at the University of Virginia, and an NSF Graduate Research Fellow.
