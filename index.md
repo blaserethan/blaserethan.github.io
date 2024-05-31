@@ -22,7 +22,7 @@ layout: home
                 <br>
                 <b>Office</b>: Rice Hall 224<br>
                 <b>Mail</b>: 85 Engineer's Way, Charlottesville, VA, 22903<br>
-                <b>Email</b>: ehb2bf at virginia dot edu </a> <br>
+                <b>Email</b>: ehb2bf at virginia dot edu <br>
             </p>
         </td>
         </tr>
