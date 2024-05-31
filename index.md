@@ -35,9 +35,12 @@ layout: home
 I am a 3rd year PhD Candidate in the Department of Computer Science at the University of Virginia, and an NSF Graduate Research Fellow.
 My research focuses on the mathematical and statistical foundations of sequential decision making systems. I'm fortunate to be advised by [Professor
 Shangtong Zhang](https://shangtongzhang.github.io/) as a member of the [Sequential Decision Making Lab](https://github.com/SDM-LAB/Sequential-Decision-Making-Lab).
-Previously, I received my Masters in CS and BA in Physics and CS with Highest Distinction also from UVA.
+Previously, I received my Masters in CS under the supervision of [Professor Hongning Wang](https://www.cs.virginia.edu/~hw5x/), and my BA in Physics and CS with Highest Distinction also from UVA.
 
 ## News
+- 2024/02: One work was accepted at AISTATS 2024
 - 2023/10: I passed my Qualifying Examination
+- 2022/04: I received the NSF Graduate Research Fellowship
+- 2022/07: One work was accepted at KDD 2022
 - 2021/09: I joined UVA as a PhD Student!
 
