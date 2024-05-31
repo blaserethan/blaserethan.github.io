@@ -22,7 +22,7 @@ layout: home
                 <br>
                 <b>Office</b>: Rice Hall 224<br>
                 <b>Mail</b>: 85 Engineer's Way, Charlottesville, VA, 22903<br>
-                <b>Email</b>: <a href="mailto:ehb2bf@virginia.edu">ehb2bf@virginia.edu </a> <br>
+                <b>Email</b>: ehb2bf at virginia dot edu </a> <br>
             </p>
         </td>
         </tr>
@@ -40,6 +40,7 @@ Previously, I received my Masters in CS under the supervision of [Professor Hong
 ## News
 - 2024/02: One work was accepted at AISTATS 2024
 - 2023/10: I passed my Qualifying Examination
+- 2022/05: I started interning at SpaceX
 - 2022/04: I received the NSF Graduate Research Fellowship
 - 2022/07: One work was accepted at KDD 2022
 - 2021/09: I joined UVA as a PhD Student!
