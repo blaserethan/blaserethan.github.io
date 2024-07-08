@@ -37,6 +37,7 @@ Shangtong Zhang](https://shangtongzhang.github.io/) as a member of the [Sequenti
 Previously, I received my Masters in CS under the guidance of [Professor Hongning Wang](https://www.cs.virginia.edu/~hw5x/), and my BA in Physics and CS with Highest Distinction also from UVA.
 
 ## News
+- 2024/06: One work was accepted at the Workshop on In-context Learning at ICML 2024 as an Oral Spotlight.
 - 2024/02: One work was accepted at AISTATS 2024
 - 2023/10: I passed my Qualifying Examination
 - 2022/05: I started interning at SpaceX
