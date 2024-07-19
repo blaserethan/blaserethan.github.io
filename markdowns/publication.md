@@ -9,6 +9,9 @@ permalink: /publication/
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
 Jiuqi Wang<sup>\*</sup>, **Ethan Blaser**<sup>\*</sup>, Hadi Daneshmand, Shangtong Zhang.  
 arXiv:2405.13861, 2024.   
+- [Federated Linear Contextual Bandits with Heterogeneous Clients](https://proceedings.mlr.press/v238/blaser24a/blaser24a.pdf)
+**Ethan Blaser**, Chuanhao Li, Hongning Wang.
+Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, PMLR 238:631-639, 2024.
 - [Graph Structural Attack by Perturbing Spectral Distance](https://dl.acm.org/doi/pdf/10.1145/3534678.3539435).
 Lu Lin, **Ethan Blaser**, Hongning Wang.
 Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022.
