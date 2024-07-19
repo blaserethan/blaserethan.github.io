@@ -13,7 +13,7 @@ arXiv:2405.13861, 2024.
 **Oral Spotlight** @ 2024 RLC Worskop on Training Agents with Foundation Models  
 
 - [Federated Linear Contextual Bandits with Heterogeneous Clients](https://proceedings.mlr.press/v238/blaser24a/blaser24a.pdf)  
-**Ethan Blaser**, Chuanhao Li, Hongning Wang.
+**Ethan Blaser**, Chuanhao Li, Hongning Wang.  
 Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, PMLR 238:631-639, 2024.  
 
 - [Graph Structural Attack by Perturbing Spectral Distance](https://dl.acm.org/doi/pdf/10.1145/3534678.3539435).  
