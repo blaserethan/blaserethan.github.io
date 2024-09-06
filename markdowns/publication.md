@@ -9,8 +9,8 @@ permalink: /publication/
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
 Jiuqi Wang<sup>\*</sup>, **Ethan Blaser**<sup>\*</sup>, Hadi Daneshmand, Shangtong Zhang.  
 arXiv:2405.13861, 2024.  
-**Oral Spotlight** @ 2024 ICML Workshop for In-Context Learning  
-**Oral Spotlight** @ 2024 RLC Worskop on Training Agents with Foundation Models  
+**Spotlight Award** @ 2024 ICML Workshop for In-Context Learning  
+Contributed talk @ the RLC Workshop on Training Agents with Foundation Models, 2024.
 
 - [Federated Linear Contextual Bandits with Heterogeneous Clients](https://proceedings.mlr.press/v238/blaser24a/blaser24a.pdf)  
 **Ethan Blaser**, Chuanhao Li, Hongning Wang.  
