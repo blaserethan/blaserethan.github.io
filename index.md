@@ -29,7 +29,7 @@ layout: home
     </tbody>
 </table>
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fF7Ok0AAAAAJ&scilu=&scisig=AMD79ooAAAAAY02cyWFwrpqYZuSgdj0HEOBqcDgccsbW&gmla=AJsN-F5HWQ2ZZdugle0DKHtMEI2hXjtrjnQZ3dUqzdlhKnW_oqISO6nG1OixVJx7XpqPm7MRsTgamA8_KsvH-Or-t06epe_81XjPdEQAbMglLRYjndcaWTU&sciund=12663298381193620857) [[Twitter]](https://twitter.com/EthanBlaser) [[CV]](/assets/pdf/resume/resume.pdf) [[Github]](https://github.com/blaserethan) [[Sequential Intelligence Lab]](https://github.com/Sequential-Intelligence-Lab) 
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fF7Ok0AAAAAJ&scilu=&scisig=AMD79ooAAAAAY02cyWFwrpqYZuSgdj0HEOBqcDgccsbW&gmla=AJsN-F5HWQ2ZZdugle0DKHtMEI2hXjtrjnQZ3dUqzdlhKnW_oqISO6nG1OixVJx7XpqPm7MRsTgamA8_KsvH-Or-t06epe_81XjPdEQAbMglLRYjndcaWTU&sciund=12663298381193620857) [[Twitter]](https://twitter.com/EthanBlaser) [[CV]](assets\pdf\resume\EB_CV_Fall2024.pdf) [[Github]](https://github.com/blaserethan) [[Sequential Intelligence Lab]](https://github.com/Sequential-Intelligence-Lab) 
 ## Biography
 
 I am a 3rd year PhD Candidate in the Department of Computer Science at the University of Virginia, and an NSF Graduate Research Fellow. My research is primarily focused on enhancing both the performance and understanding of sequential decision-making systems, with a specific emphasis on reinforcement learning theory and its applications.  I'm fortunate to be advised by [Professor
