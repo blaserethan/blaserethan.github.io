@@ -32,9 +32,8 @@ layout: home
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fF7Ok0AAAAAJ&scilu=&scisig=AMD79ooAAAAAY02cyWFwrpqYZuSgdj0HEOBqcDgccsbW&gmla=AJsN-F5HWQ2ZZdugle0DKHtMEI2hXjtrjnQZ3dUqzdlhKnW_oqISO6nG1OixVJx7XpqPm7MRsTgamA8_KsvH-Or-t06epe_81XjPdEQAbMglLRYjndcaWTU&sciund=12663298381193620857) [[Twitter]](https://twitter.com/EthanBlaser) [[CV]](assets\pdf\resume\EB_CV_Fall2024.pdf) [[Github]](https://github.com/blaserethan) [[Sequential Intelligence Lab]](https://github.com/Sequential-Intelligence-Lab) 
 ## Biography
 
-I am a 3rd year PhD Candidate in the Department of Computer Science at the University of Virginia, and an NSF Graduate Research Fellow. My research is primarily focused on enhancing both the performance and understanding of sequential decision-making systems, with a specific emphasis on reinforcement learning theory and its applications.  I'm fortunate to be advised by [Professor
-Shangtong Zhang](https://shangtongzhang.github.io/) as a member of the [Sequential Intelligence Lab](https://github.com/Sequential-Intelligence-Lab).
-Previously, I received my Masters in CS under the guidance of [Professor Hongning Wang](https://www.cs.virginia.edu/~hw5x/), and my BA in Physics and CS with Highest Distinction also from UVA.
+I am a 4th year PhD Candidate in the Department of Computer Science at the University of Virginia, and an NSF Graduate Research Fellow. My research is primarily focused on enhancing both the performance and understanding of sequential decision-making systems, with a specific emphasis on reinforcement learning theory and its applications.  I'm fortunate to be advised by [Professor
+Shangtong Zhang](https://shangtongzhang.github.io/) as a member of the [Sequential Intelligence Lab](https://github.com/Sequential-Intelligence-Lab). I am currently interning at a startup company.
 
 ## News
 - 2024/06: One work was accepted at the Workshop on In-context Learning at ICML 2024 as an Oral Spotlight.

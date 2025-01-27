@@ -12,7 +12,7 @@ arXiv:2409.19546, 2024.
 
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
 Jiuqi Wang<sup>\*</sup>, **Ethan Blaser**<sup>\*</sup>, Hadi Daneshmand, Shangtong Zhang.  
-arXiv:2405.13861, 2024.  
+ICLR, 2025.  
 **Spotlight Award** @ 2024 ICML Workshop for In-Context Learning  
 Contributed talk @ the RLC Workshop on Training Agents with Foundation Models, 2024.
 
