@@ -36,6 +36,8 @@ I am a 4th year PhD Candidate in the Department of Computer Science at the Unive
 Shangtong Zhang](https://shangtongzhang.github.io/) as a member of the [Sequential Intelligence Lab](https://github.com/Sequential-Intelligence-Lab). I am currently interning at a startup company.
 
 ## News
+- 2025/01: One work was accepted at ICLR 2025.
+- 2025/01: I am on temporarily leave from my PhD program while I work at a startup company!
 - 2024/06: One work was accepted at the Workshop on In-context Learning at ICML 2024 as an Oral Spotlight.
 - 2024/02: One work was accepted at AISTATS 2024
 - 2023/10: I passed my Qualifying Examination
