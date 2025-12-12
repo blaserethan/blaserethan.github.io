@@ -6,9 +6,13 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. Order determined by tossing a fair coin
 
-- [Almost Sure Convergence of Average Reward Temporal Difference Learning](https://arxiv.org/abs/2409.19546).  
+- Almost Sure Convergence of Differential Temporal Difference Learning for Average Reward Markov Decision Processes.  
+**Ethan Blaser**, Shangtong Zhang. 
+In review.
+
+- [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
 **Ethan Blaser**, Shangtong Zhang.  
-arXiv:2409.19546, 2024.  
+AAAI, 2026.  
 
 - [Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning](https://arxiv.org/abs/2405.13861).  
 Jiuqi Wang<sup>\*</sup>, **Ethan Blaser**<sup>\*</sup>, Hadi Daneshmand, Shangtong Zhang.  
