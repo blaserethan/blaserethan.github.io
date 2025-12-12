@@ -33,9 +33,11 @@ layout: home
 ## Biography
 
 I am a 4th year PhD Candidate in the Department of Computer Science at the University of Virginia, and an NSF Graduate Research Fellow. My research is primarily focused on enhancing both the performance and understanding of sequential decision-making systems, with a specific emphasis on reinforcement learning theory and its applications.  I'm fortunate to be advised by [Professor
-Shangtong Zhang](https://shangtongzhang.github.io/) as a member of the [Sequential Intelligence Lab](https://github.com/Sequential-Intelligence-Lab). I am currently interning at a startup company.
+Shangtong Zhang](https://shangtongzhang.github.io/) as a member of the [Sequential Intelligence Lab](https://github.com/Sequential-Intelligence-Lab). I am currently on leave working at a startup company.
 
 ## News
+
+- 2025/10: One work was accepted at AAAI 2026.
 - 2025/01: One work was accepted at ICLR 2025.
 - 2025/01: I am on temporarily leave from my PhD program while I work at a startup company!
 - 2024/06: One work was accepted at the Workshop on In-context Learning at ICML 2024 as an Oral Spotlight.
