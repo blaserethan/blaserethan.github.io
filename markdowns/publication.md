@@ -6,9 +6,9 @@ permalink: /publication/
 
 <sup>*</sup> indicates equal contribution. Order determined by tossing a fair coin
 
-- Almost Sure Convergence of Differential Temporal Difference Learning for Average Reward Markov Decision Processes.  
-**Ethan Blaser**, Shangtong Zhang. 
-In review.
+- [Almost Sure Convergence of Differential Temporal Difference Learning for Average Reward Markov Decision Processes](https://arxiv.org/abs/2602.16629).  
+**Ethan Blaser**, Jiuqi Wang, Shangtong Zhang.
+AISTATS, 2026.
 
 - [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
 **Ethan Blaser**, Shangtong Zhang.  
