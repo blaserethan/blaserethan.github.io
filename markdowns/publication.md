@@ -7,7 +7,7 @@ permalink: /publication/
 <sup>*</sup> indicates equal contribution. Order determined by tossing a fair coin
 
 - [Almost Sure Convergence of Differential Temporal Difference Learning for Average Reward Markov Decision Processes](https://arxiv.org/abs/2602.16629).  
-**Ethan Blaser**, Jiuqi Wang, Shangtong Zhang.
+**Ethan Blaser**, Jiuqi Wang, Shangtong Zhang.  
 AISTATS, 2026.
 
 - [Asymptotic and Finite Sample Analysis of Nonexpansive Stochastic Approximations with Markovian Noise](https://arxiv.org/abs/2409.19546).  
@@ -22,7 +22,7 @@ Contributed talk @ the RLC Workshop on Training Agents with Foundation Models, 2
 
 - [Federated Linear Contextual Bandits with Heterogeneous Clients](https://proceedings.mlr.press/v238/blaser24a/blaser24a.pdf)  
 **Ethan Blaser**, Chuanhao Li, Hongning Wang.  
-Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, PMLR 238:631-639, 2024.  
+Proceedings of The 27th International Conference on Artificial Intelligence and Statistics (AISTATS), PMLR 238:631-639, 2024.  
 
 - [Graph Structural Attack by Perturbing Spectral Distance](https://dl.acm.org/doi/pdf/10.1145/3534678.3539435).  
 Lu Lin, **Ethan Blaser**, Hongning Wang.  
