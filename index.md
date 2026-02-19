@@ -37,6 +37,7 @@ Shangtong Zhang](https://shangtongzhang.github.io/) as a member of the [Sequenti
 
 ## News
 
+- 2026/01: One work was accepted at AISTATS 2026.
 - 2025/10: One work was accepted at AAAI 2026.
 - 2025/01: One work was accepted at ICLR 2025.
 - 2025/01: I am on temporarily leave from my PhD program while I work at a startup company!
